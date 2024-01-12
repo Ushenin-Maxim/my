@@ -1,0 +1,11 @@
+.red {
+	color: red;
+	font-size: 20px;
+	line-height: 1.5;
+}
+
+.green {
+	color: rgb(20, 138, 40);
+	margin: 0px 0px 0px 0px;
+   background-image: url(img/train.jpg);
+}
